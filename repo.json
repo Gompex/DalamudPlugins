@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "Author": "Dawid",
+    "Name": "Inventory Triage",
+    "InternalName": "InventoryTriage",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Replaces the inventory with a native Flow window (Inbox, Shelves, Outbox), a Value map and context pouches. Every item gets a verdict: Market Board, vendor, GC seals, desynth or keep.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "inventory",
+      "bags",
+      "market",
+      "retainer",
+      "qol",
+      "ui"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A new inventory that tells you what to do with every item.",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://github.com/Gompex/DalamudPlugins/releases/download/InventoryTriage-v1.0.0/InventoryTriage-1.0.0.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Gompex/DalamudPlugins/releases/download/InventoryTriage-v1.0.0/InventoryTriage-1.0.0.0.zip",
+    "DownloadLinkTesting": "https://github.com/Gompex/DalamudPlugins/releases/download/InventoryTriage-v1.0.0/InventoryTriage-1.0.0.0.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1794848597,
+    "DownloadCount": 0
+  }
+]
