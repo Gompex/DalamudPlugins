@@ -33,8 +33,8 @@
     "Author": "Dawid",
     "Name": "Plater for FF14",
     "InternalName": "PlaterXIV",
-    "AssemblyVersion": "1.0.0.0",
-    "Description": "A display-only enemy nameplate overhaul inspired by threat-plate addons. Health, cast bars with interruptible state, your own DoTs, aggro colours for tanks and threat warnings for DPS and healers, target and focus highlights, per-enemy rules and job profiles. Disabled in PvP.",
+    "AssemblyVersion": "1.0.1.0",
+    "Description": "An enemy nameplate overhaul inspired by threat-plate addons: health, cast bars with interruptible state, your own DoTs, aggro colours for tanks and threat warnings for DPS and healers, level, target and focus highlights, per-enemy rules and job profiles. Optional: middle-click a plate to cast your interrupt on it (one click, one action). Disabled in PvP.",
     "ApplicableVersion": "any",
     "Tags": [
       "nameplate",
@@ -49,12 +49,12 @@
     "LoadPriority": 0,
     "Punchline": "Combat nameplates: health, casts, your DoTs and threat at a glance.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/Gompex/DalamudPlugins/releases/download/PlaterXIV-v1.0.0/PlaterXIV-1.0.0.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Gompex/DalamudPlugins/releases/download/PlaterXIV-v1.0.0/PlaterXIV-1.0.0.0.zip",
-    "DownloadLinkTesting": "https://github.com/Gompex/DalamudPlugins/releases/download/PlaterXIV-v1.0.0/PlaterXIV-1.0.0.0.zip",
+    "DownloadLinkInstall": "https://github.com/Gompex/DalamudPlugins/releases/download/PlaterXIV-v1.0.1/PlaterXIV-1.0.1.0.zip",
+    "DownloadLinkUpdate": "https://github.com/Gompex/DalamudPlugins/releases/download/PlaterXIV-v1.0.1/PlaterXIV-1.0.1.0.zip",
+    "DownloadLinkTesting": "https://github.com/Gompex/DalamudPlugins/releases/download/PlaterXIV-v1.0.1/PlaterXIV-1.0.1.0.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1795046681,
+    "LastUpdate": 1795047674,
     "DownloadCount": 0
   }
 ]
