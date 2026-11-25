@@ -1,72 +1,9 @@
 [
     {
-        "value":  [
-                      {
-                          "Author":  "Dawid",
-                          "Name":  "Plater for FF14",
-                          "InternalName":  "PlaterXIV",
-                          "AssemblyVersion":  "1.0.3.0",
-                          "Description":  "An enemy nameplate overhaul inspired by threat-plate addons: health, cast bars with interruptible state, your own DoTs, aggro colours for tanks and threat warnings for DPS and healers, level, target and focus highlights, per-enemy rules and job profiles. Optional: middle-click a plate to cast your interrupt on it (one click, one action). Disabled in PvP.",
-                          "ApplicableVersion":  "any",
-                          "Tags":  [
-                                       "nameplate",
-                                       "combat",
-                                       "ui",
-                                       "enmity"
-                                   ],
-                          "DalamudApiLevel":  15,
-                          "LoadRequiredState":  0,
-                          "LoadSync":  false,
-                          "CanUnloadAsync":  false,
-                          "LoadPriority":  0,
-                          "Punchline":  "Combat nameplates: health, casts, your DoTs and threat at a glance.",
-                          "AcceptsFeedback":  false,
-                          "DownloadLinkInstall":  "https://github.com/Gompex/DalamudPlugins/releases/download/PlaterXIV-v1.0.3/PlaterXIV-1.0.3.0.zip",
-                          "DownloadLinkUpdate":  "https://github.com/Gompex/DalamudPlugins/releases/download/PlaterXIV-v1.0.3/PlaterXIV-1.0.3.0.zip",
-                          "DownloadLinkTesting":  "https://github.com/Gompex/DalamudPlugins/releases/download/PlaterXIV-v1.0.3/PlaterXIV-1.0.3.0.zip",
-                          "IsHide":  false,
-                          "IsTestingExclusive":  false,
-                          "LastUpdate":  1795115546,
-                          "DownloadCount":  0
-                      },
-                      {
-                          "Author":  "Dawid",
-                          "Name":  "Inventory Triage",
-                          "InternalName":  "InventoryTriage",
-                          "AssemblyVersion":  "1.0.1.0",
-                          "Description":  "Replaces the inventory with a native Flow window (Inbox, Shelves, Outbox), a Value map and context pouches. Every item gets a verdict: Market Board, vendor, GC seals, desynth or keep.",
-                          "ApplicableVersion":  "any",
-                          "Tags":  [
-                                       "inventory",
-                                       "bags",
-                                       "market",
-                                       "retainer",
-                                       "qol",
-                                       "ui"
-                                   ],
-                          "DalamudApiLevel":  15,
-                          "LoadRequiredState":  0,
-                          "LoadSync":  false,
-                          "CanUnloadAsync":  false,
-                          "LoadPriority":  0,
-                          "Punchline":  "A new inventory that tells you what to do with every item.",
-                          "AcceptsFeedback":  false,
-                          "DownloadLinkInstall":  "https://github.com/Gompex/DalamudPlugins/releases/download/InventoryTriage-v1.0.1/InventoryTriage-1.0.1.0.zip",
-                          "DownloadLinkUpdate":  "https://github.com/Gompex/DalamudPlugins/releases/download/InventoryTriage-v1.0.1/InventoryTriage-1.0.1.0.zip",
-                          "DownloadLinkTesting":  "https://github.com/Gompex/DalamudPlugins/releases/download/InventoryTriage-v1.0.1/InventoryTriage-1.0.1.0.zip",
-                          "IsHide":  false,
-                          "IsTestingExclusive":  false,
-                          "LastUpdate":  1795108511,
-                          "DownloadCount":  0
-                      }
-                  ],
-        "Count":  2
-    },
-    {
         "Author":  "Dawid",
         "Name":  "Kaifuku",
         "InternalName":  "Kaifuku",
-        "AssemblyVersion":  "2.1.0.0",
+        "AssemblyVersion":  "2.2.0.0",
         "Description":  "HealBot-style click-to-heal party frames: click a member to heal them, with Shift, Ctrl, Alt and mouse buttons 4/5 for more skills. Skins, a binding guide, alliance frames, profiles, and healer awareness: raises on the way, removable debuffs, heal-to-full debuffs, tank busters, raidwides, aggro, cast bars and pets. One click, one action.",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/Gompex/Kaifuku",
@@ -84,12 +21,12 @@
         "LoadPriority":  0,
         "Punchline":  "Kaifuku (回復, recovery): click-to-heal party frames.",
         "AcceptsFeedback":  false,
-        "DownloadLinkInstall":  "https://github.com/Gompex/DalamudPlugins/releases/download/Kaifuku-v2.1.0/Kaifuku-2.1.0.0.zip",
-        "DownloadLinkUpdate":  "https://github.com/Gompex/DalamudPlugins/releases/download/Kaifuku-v2.1.0/Kaifuku-2.1.0.0.zip",
-        "DownloadLinkTesting":  "https://github.com/Gompex/DalamudPlugins/releases/download/Kaifuku-v2.1.0/Kaifuku-2.1.0.0.zip",
+        "DownloadLinkInstall":  "https://github.com/Gompex/DalamudPlugins/releases/download/Kaifuku-v2.2.0/Kaifuku-2.2.0.0.zip",
+        "DownloadLinkUpdate":  "https://github.com/Gompex/DalamudPlugins/releases/download/Kaifuku-v2.2.0/Kaifuku-2.2.0.0.zip",
+        "DownloadLinkTesting":  "https://github.com/Gompex/DalamudPlugins/releases/download/Kaifuku-v2.2.0/Kaifuku-2.2.0.0.zip",
         "IsHide":  false,
         "IsTestingExclusive":  false,
-        "LastUpdate":  1795619141,
+        "LastUpdate":  1795630575,
         "DownloadCount":  0
     }
 ]
